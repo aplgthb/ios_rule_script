@@ -1,0 +1,17 @@
+# NAME: HKAPP, force HK
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-03-07 
+
+# Linkedin
+HOST-SUFFIX,linkedin.com,LinkedIn
+HOST-KEYWORD,linkedin,linkedin
+
+# Youtube
+HOST-SUFFIX,youtube.com,YouTube
+HOST-SUFFIX,youtube.com.hk,YouTube
+HOST-SUFFIX,youtube.hk,YouTube
+HOST-KEYWORD,youtube,YouTube
+
+# Perplexity
+HOST-SUFFIX,perplexity.ai,Perplexity
+HOST-KEYWORD,perplexity,Perplexity
