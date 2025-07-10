@@ -12,12 +12,16 @@ HOST-SUFFIX,youtube.com.hk,YouTube
 HOST-SUFFIX,youtube.hk,YouTube
 HOST-KEYWORD,youtube,YouTube
 
-# Perplexity
-HOST-SUFFIX,perplexity.ai,Perplexity
-HOST-KEYWORD,perplexity,Perplexity
 
 # WhatsApp
 HOST-SUFFIX,whatsapp.biz,Whatsapp
 HOST-SUFFIX,whatsapp.com,Whatsapp
 HOST-SUFFIX,whatsapp.net,Whatsapp
 HOST-KEYWORD,whatsapp,Whatsapp
+
+# Perplexity
+HOST-SUFFIX,perplexity.ai,Perplexity
+HOST-KEYWORD,perplexity,Perplexity
+
+# POE
+HOST-SUFFIX,POE.ai,POE
