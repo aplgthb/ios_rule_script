@@ -1,11 +1,8 @@
-# NAME: USapps
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 16:02:56
-# HOST-SUFFIX: 4
-# TOTAL: 4
-
-DOMAIN,notebooklm.google.com
-DOMAIN,gemini.google.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,copilot.microsoft.com
+HOST-KEYWORD,www.google
+HOST-KEYWORD,gmail,Google
+HOST,notebooklm.google.com
+HOST,gemini.google.com
+HOST,aistudio.google.com
+HOST-SUFFIX,chatgpt.com
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,copilot.microsoft.com
