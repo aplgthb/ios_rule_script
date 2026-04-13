@@ -23,5 +23,8 @@ HOST-KEYWORD,whatsapp,Whatsapp
 HOST-SUFFIX,perplexity.ai,Perplexity
 HOST-KEYWORD,perplexity,Perplexity
 
+# Copilot
+HOST-KEYWORD,copilot,Copilot
+
 # POE
 HOST-SUFFIX,POE.ai,POE
