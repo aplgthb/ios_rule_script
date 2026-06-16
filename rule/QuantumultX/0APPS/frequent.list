@@ -1,1 +1,6 @@
-
+HOST-KEYWORD,google
+HOST-KEYWORD,gmail,Google
+HOST,wsj.com
+HOST,hbr.com
+HOST,economists.com
+HOST-SUFFIX,chatgpt.com
