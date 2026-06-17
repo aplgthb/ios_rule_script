@@ -1,6 +1,17 @@
-HOST-KEYWORD,google
-HOST-KEYWORD,gmail,Google
-HOST,wsj.com
-HOST,hbr.com
-HOST,economists.com
-HOST-SUFFIX,chatgpt.com
+# Streaming
+HOST,tubitv.com,tubi
+HOST,tubi.tv,tubi
+HOST,plex.tv,plex
+HOST-SUFFIX,plex.tv,plex
+HOST-KEYWORD,tvbaw,tvb
+HOST-SUFFIX,XUMO.com,XUMO
+HOST-KEYWORD,XUMO,XUMO
+
+
+# Magzine Subscription,注释的在全球加速规则里
+;HOST,wsj.com,wsj
+;HOST,economist.com,economist
+;HOST,nytimes.com,nytimes
+
+HOST,hbr.com,hbr
+HOST,hbr.org,hbr
