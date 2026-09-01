@@ -4,3 +4,5 @@ HOST,notebooklm.google.com
 HOST,gemini.google.com
 HOST,aistudio.google.com
 HOST-SUFFIX,chatgpt.com
+HOST,www.workbuddy.ai
+HOST-KEYWORD,workbuddy
